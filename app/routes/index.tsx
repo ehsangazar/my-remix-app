@@ -24,8 +24,7 @@ export default function Index() {
                 </span>
               </h1>
               <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">
-                Check the README.md file for instructions on how to get this
-                project deployed.
+                Simpe App with Remix, Prisma, Tailwind, and PostgreSQL
               </p>
               <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 {user ? (
